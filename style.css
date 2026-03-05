@@ -1,0 +1,26 @@
+body {
+font-family: Arial;
+text-align: center;
+background-color: beige;
+margin: 0;
+}
+button {
+padding: 10px 20px;
+background-color: rgb(111, 100, 184);
+color: white;
+border: none;
+cursor: pointer;
+}
+#second-section {
+background-color: lightblue;
+padding: 40px;
+margin-top: 30px;
+}
+#name-box {
+background-color: rgb(167, 156, 192);
+border: 2px solid rgb(111, 100, 184);
+padding: 20px;
+width: 60%;
+margin: auto;
+border-radius: 10px;
+}
